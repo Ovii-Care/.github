@@ -12,7 +12,7 @@ A women's health companion — cycle tracking, mood & symptom logs, partner shar
 - **[backend](https://github.com/Ovii-Care/backend)** — Laravel 10 API + AdminLTE panel + marketing site. PHP 8.2, MySQL 8, Redis 7, OAuth2 (Passport).
 - **[infra](https://github.com/Ovii-Care/infra)** — Terraform on AWS (EC2 / RDS / S3), Docker Compose for staging & prod, operator runbooks.
 
-Each repo has its own README with full setup. New laptop? Start with the [Mac setup guide](https://github.com/Ovii-Care/<device-setup-repo>).
+Each repo has its own README with full setup. New laptop? Start with the [Mac setup guide](https://github.com/Ovii-Care/device-setup).
 
 ---
 
